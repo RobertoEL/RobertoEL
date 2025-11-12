@@ -80,7 +80,7 @@ Courses: Computational Physics, Statistical Mechanics
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robertoesparzalepe/)  
-- ✉️ [your.email@example.com](mailto:phd.roberto.esparza@gmail.com)  
+- ✉️ [phd.roberto.esparza@gmail.com](mailto:phd.roberto.esparza@gmail.com)  
 - 🌐 [Portfolio / Website](https://github.com/RobertoEL)
 
 ---

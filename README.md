@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Roberto Esparza
 
-<!--
-**RobertoEL/RobertoEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software QA Engineer | Python Developer | Data Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building reliable, automated testing frameworks and exploring data to drive better decisions.  
+Experienced in **Python, Selenium, SQL, Power BI**, and **API testing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Data analytics, Power BI, and advanced Python automation  
+🔍 Interested in: Test automation frameworks, data pipelines, and ML-based QA testing  
+📫 Reach me at: phh.roberto.esparza@gmail.com | https://www.linkedin.com/in/robertoesparzalepe/
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python, SQL, C#  
+**QA Tools:** Selenium, Postman, JMeter, SoapUI  
+**Data Tools:** Power BI, Pandas, NumPy, Matplotlib  
+**Other:** Git, VS Code, Jupyter Notebook  
+
+---
+
+### 📂 Featured Projects
+- 🧪 [**Selenium Automation Framework**](#): End-to-end test automation for a sample web app  
+- 📊 [**Data Analysis Portfolio**](#): Python and Power BI dashboards on real-world datasets  
+- 🔗 [**API Testing Automation**](#): Automated REST API testing using Python + Requests + pytest  
